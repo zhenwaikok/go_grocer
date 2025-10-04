@@ -1,0 +1,41 @@
+﻿.editProductContainer {
+    width: 98%;
+    margin: auto;
+}
+
+.modalTitle {
+    font-weight: bold;
+    font-size: 30px;
+    margin-bottom:15px !important;
+}
+
+.form-name {
+    margin-bottom: 10px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.descriptionTextBox {
+    height: 120px;
+    resize: none;
+}
+
+.saveBtn {
+    background-color: #05656E;
+    color: white;
+    padding: 7px 13px;
+    border: none;
+    border-radius: 7px;
+    margin-left: 8px !important;
+}
+
+    .saveBtn:hover {
+        background-color: #077782;
+    }
+
+
+.imagePreview{
+    margin-top:10px;
+    width:100px;
+    height:100px;
+}

@@ -1,0 +1,95 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="UserMasterPage.Master.cs" Inherits="MWMAssignment.Guest.GuestMasterPage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GoGrocer</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <link rel="stylesheet" href="UserMasterPage.css" type="text/css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css">
+</head>
+<body>
+    <form id="form1" runat="server">
+        <!-- Header -->
+        <div class="header">
+            <div class="navbars">
+                <div class="left-nav">
+                    <a href="HomePage.aspx" class="navbar-brand">
+                        <img src="../Images/logo.png" class="logos" />
+                    </a>
+                </div>
+        
+                <!-- Hamburger button -->
+                <div class="hamburger" onclick="toggleMenu()">
+                    &#9776;
+                </div>
+
+                <!-- Navigation links and user role -->
+                <div class="menu-content">
+                    <ul class="navbar-links">
+                        <li><a class="nav_link Btn" href="HomePage.aspx">Home</a></li>
+                        <li><a class="nav_link Btn" href="Feedback.aspx">Feedback</a></li>
+                        <li><a class="nav_link Btn" href="AboutUs.aspx">About Us</a></li>
+                    </ul>
+
+                    <div class="user-role">
+                        <div class="cartBtnContainer position-relative d-inline-block">
+                            <asp:LinkButton ID="cartBtn" runat="server" CssClass="cartBtn" CausesValidation="False" OnClick="cartBtn_Click"> 
+                                <i class="bi bi-cart"></i>
+                            </asp:LinkButton>
+                            <asp:Label ID="cartItemCountLabel" runat="server" Text="0" 
+                                CssClass="badge bg-danger position-absolute translate-middle  cartItemCountLabel">
+                            </asp:Label>
+                        </div>
+
+                        <asp:Label ID="guestLabel" runat="server" Text="Guest" Font-Size="20px"></asp:Label>
+
+                        <div class="dropdown">
+                            <asp:Button ID="dropdownBtn" runat="server" Text="▼" class="dropdownBtn" CausesValidation="false" OnClientClick="toggleDropdown(); return false;" />
+                            <!-- Dropdown Panel -->
+                            <asp:Panel ID="dropdownPanel" runat="server" CssClass="dropdown-content" style="display:none">
+                                <a href="Login.aspx">Log In</a><br />
+                                <a href="SignUp.aspx">Sign Up</a>
+                            </asp:Panel>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <script>
+            function toggleMenu() {
+                var menu = document.querySelector('.menu-content');
+                menu.classList.toggle('show');
+            }
+
+            function toggleDropdown() {
+                var dropdown = document.querySelector(".dropdown-content");
+                if (dropdown) {
+                    dropdown.style.display = (dropdown.style.display === "none" || dropdown.style.display === "") ? "block" : "none";
+                }
+            }
+
+
+        </script>
+
+        <!--Content-->
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+
+        <!-- Footer -->
+
+        <div class="footer">
+            <p><sup>&copy;</sup><%: DateTime.Now.Year %> MWM Assignment | GoGrocer</p>
+        </div>
+    </form>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+</body>
+</html>

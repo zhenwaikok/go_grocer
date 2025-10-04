@@ -1,0 +1,61 @@
+﻿body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.hamburgerBtn{
+    color:black;
+    border:1px solid black;
+    background-color:transparent;
+    padding:8px 15px;
+    border-radius:8px;
+    font-size:20px;
+}
+
+    .hamburgerBtn:hover {
+        background-color: #05656E;
+        color:white;
+        border:none;
+    }
+
+.sidebar {
+    box-shadow: 5px 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.customSidebar {
+    width: 220px; 
+    position: fixed;
+}
+
+.adminDetails{
+    margin-bottom:20px;
+    margin-left:15px;
+}
+
+.logos {
+    width: 60%;
+}
+
+.nav-link:hover {
+    background-color: #05656E !important;
+    color:white !important;
+}
+
+.main-content{
+    margin-left:220px;
+}
+
+@media (max-width: 991.98px) {
+    .sidebar{
+        display: none;
+    }
+
+    .navbar {
+        z-index: 1050;
+    }
+
+    .main-content {
+        margin-left: 0 !important;
+    }
+}

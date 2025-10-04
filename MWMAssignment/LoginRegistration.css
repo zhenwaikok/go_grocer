@@ -1,0 +1,64 @@
+﻿.loginRegisterContainer {
+    margin: 40px auto;
+    width: 80%;
+}
+
+.login-col {
+    padding: 10px 50px 10px 30px;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+
+.loginTitle {
+    font-size: 40px;
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
+
+.description {
+    font-size: 20px;
+    margin-bottom: 40px;
+}
+
+.form-name {
+    margin-bottom: 10px;
+    font-weight: normal;
+    font-size:20px;
+}
+
+.errMsg {
+    font-size: medium;
+    color: red;
+}
+
+.loginRegisterBtn {
+    margin-top: 10px;
+    background-color: #05656E;
+    border: none;
+    padding: 10px;
+    font-size: 20px;
+    width: 100%;
+    cursor: pointer;
+    color: white;
+}
+
+    .loginRegisterBtn:hover {
+        background-color: #077782;
+    }
+
+.linkBtn {
+    text-decoration: none;
+    text-align: center;
+    margin-top: 20px;
+    display: block;
+    margin-bottom: 20px;
+}
+
+    .linkBtn .first-span {
+        color: black;
+    }
+
+    .linkBtn .second-span {
+        color: #05656E;
+        font-weight: bold;
+    }

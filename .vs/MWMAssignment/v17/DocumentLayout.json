@@ -1,0 +1,346 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Degree\\year3sem1\\MWM\\MWMAssignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42F9B4E7-4CE5-4043-8388-2ED1ACDD5C4A}|MWMAssignment\\MWMAssignment.csproj|c:\\degree\\year3sem1\\mwm\\mwmassignment\\mwmassignment\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{42F9B4E7-4CE5-4043-8388-2ED1ACDD5C4A}|MWMAssignment\\MWMAssignment.csproj|solutionrelative:mwmassignment\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42F9B4E7-4CE5-4043-8388-2ED1ACDD5C4A}|MWMAssignment\\MWMAssignment.csproj|C:\\Degree\\year3sem1\\MWM\\MWMAssignment\\mwmassignment\\adminmanageuser.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{42F9B4E7-4CE5-4043-8388-2ED1ACDD5C4A}|MWMAssignment\\MWMAssignment.csproj|solutionrelative:mwmassignment\\adminmanageuser.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42F9B4E7-4CE5-4043-8388-2ED1ACDD5C4A}|MWMAssignment\\MWMAssignment.csproj|C:\\Degree\\year3sem1\\MWM\\MWMAssignment\\mwmassignment\\adminmanagefeedback.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42F9B4E7-4CE5-4043-8388-2ED1ACDD5C4A}|MWMAssignment\\MWMAssignment.csproj|solutionrelative:mwmassignment\\adminmanagefeedback.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42F9B4E7-4CE5-4043-8388-2ED1ACDD5C4A}|MWMAssignment\\MWMAssignment.csproj|C:\\Degree\\year3sem1\\MWM\\MWMAssignment\\mwmassignment\\adminmanageuser.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42F9B4E7-4CE5-4043-8388-2ED1ACDD5C4A}|MWMAssignment\\MWMAssignment.csproj|solutionrelative:mwmassignment\\adminmanageuser.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42F9B4E7-4CE5-4043-8388-2ED1ACDD5C4A}|MWMAssignment\\MWMAssignment.csproj|C:\\Degree\\year3sem1\\MWM\\MWMAssignment\\mwmassignment\\admineditproduct.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42F9B4E7-4CE5-4043-8388-2ED1ACDD5C4A}|MWMAssignment\\MWMAssignment.csproj|solutionrelative:mwmassignment\\admineditproduct.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42F9B4E7-4CE5-4043-8388-2ED1ACDD5C4A}|MWMAssignment\\MWMAssignment.csproj|C:\\Degree\\year3sem1\\MWM\\MWMAssignment\\mwmassignment\\admineditcategory.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{42F9B4E7-4CE5-4043-8388-2ED1ACDD5C4A}|MWMAssignment\\MWMAssignment.csproj|solutionrelative:mwmassignment\\admineditcategory.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42F9B4E7-4CE5-4043-8388-2ED1ACDD5C4A}|MWMAssignment\\MWMAssignment.csproj|C:\\Degree\\year3sem1\\MWM\\MWMAssignment\\mwmassignment\\cart.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42F9B4E7-4CE5-4043-8388-2ED1ACDD5C4A}|MWMAssignment\\MWMAssignment.csproj|solutionrelative:mwmassignment\\cart.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42F9B4E7-4CE5-4043-8388-2ED1ACDD5C4A}|MWMAssignment\\MWMAssignment.csproj|C:\\Degree\\year3sem1\\MWM\\MWMAssignment\\mwmassignment\\adminmanagecategory.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42F9B4E7-4CE5-4043-8388-2ED1ACDD5C4A}|MWMAssignment\\MWMAssignment.csproj|solutionrelative:mwmassignment\\adminmanagecategory.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42F9B4E7-4CE5-4043-8388-2ED1ACDD5C4A}|MWMAssignment\\MWMAssignment.csproj|C:\\Degree\\year3sem1\\MWM\\MWMAssignment\\mwmassignment\\adminmanageorder.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{42F9B4E7-4CE5-4043-8388-2ED1ACDD5C4A}|MWMAssignment\\MWMAssignment.csproj|solutionrelative:mwmassignment\\adminmanageorder.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42F9B4E7-4CE5-4043-8388-2ED1ACDD5C4A}|MWMAssignment\\MWMAssignment.csproj|C:\\Degree\\year3sem1\\MWM\\MWMAssignment\\mwmassignment\\adminmanageproduct.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{42F9B4E7-4CE5-4043-8388-2ED1ACDD5C4A}|MWMAssignment\\MWMAssignment.csproj|solutionrelative:mwmassignment\\adminmanageproduct.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42F9B4E7-4CE5-4043-8388-2ED1ACDD5C4A}|MWMAssignment\\MWMAssignment.csproj|C:\\Degree\\year3sem1\\MWM\\MWMAssignment\\mwmassignment\\adminmanagecategory.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{42F9B4E7-4CE5-4043-8388-2ED1ACDD5C4A}|MWMAssignment\\MWMAssignment.csproj|solutionrelative:mwmassignment\\adminmanagecategory.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42F9B4E7-4CE5-4043-8388-2ED1ACDD5C4A}|MWMAssignment\\MWMAssignment.csproj|C:\\Degree\\year3sem1\\MWM\\MWMAssignment\\mwmassignment\\signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{42F9B4E7-4CE5-4043-8388-2ED1ACDD5C4A}|MWMAssignment\\MWMAssignment.csproj|solutionrelative:mwmassignment\\signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42F9B4E7-4CE5-4043-8388-2ED1ACDD5C4A}|MWMAssignment\\MWMAssignment.csproj|C:\\Degree\\year3sem1\\MWM\\MWMAssignment\\mwmassignment\\order.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{42F9B4E7-4CE5-4043-8388-2ED1ACDD5C4A}|MWMAssignment\\MWMAssignment.csproj|solutionrelative:mwmassignment\\order.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42F9B4E7-4CE5-4043-8388-2ED1ACDD5C4A}|MWMAssignment\\MWMAssignment.csproj|C:\\Degree\\year3sem1\\MWM\\MWMAssignment\\mwmassignment\\cart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{42F9B4E7-4CE5-4043-8388-2ED1ACDD5C4A}|MWMAssignment\\MWMAssignment.csproj|solutionrelative:mwmassignment\\cart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42F9B4E7-4CE5-4043-8388-2ED1ACDD5C4A}|MWMAssignment\\MWMAssignment.csproj|C:\\Degree\\year3sem1\\MWM\\MWMAssignment\\mwmassignment\\productdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{42F9B4E7-4CE5-4043-8388-2ED1ACDD5C4A}|MWMAssignment\\MWMAssignment.csproj|solutionrelative:mwmassignment\\productdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42F9B4E7-4CE5-4043-8388-2ED1ACDD5C4A}|MWMAssignment\\MWMAssignment.csproj|C:\\Degree\\year3sem1\\MWM\\MWMAssignment\\mwmassignment\\aboutus.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{42F9B4E7-4CE5-4043-8388-2ED1ACDD5C4A}|MWMAssignment\\MWMAssignment.csproj|solutionrelative:mwmassignment\\aboutus.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42F9B4E7-4CE5-4043-8388-2ED1ACDD5C4A}|MWMAssignment\\MWMAssignment.csproj|C:\\Degree\\year3sem1\\MWM\\MWMAssignment\\mwmassignment\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{42F9B4E7-4CE5-4043-8388-2ED1ACDD5C4A}|MWMAssignment\\MWMAssignment.csproj|solutionrelative:mwmassignment\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42F9B4E7-4CE5-4043-8388-2ED1ACDD5C4A}|MWMAssignment\\MWMAssignment.csproj|C:\\Degree\\year3sem1\\MWM\\MWMAssignment\\mwmassignment\\usermasterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{42F9B4E7-4CE5-4043-8388-2ED1ACDD5C4A}|MWMAssignment\\MWMAssignment.csproj|solutionrelative:mwmassignment\\usermasterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42F9B4E7-4CE5-4043-8388-2ED1ACDD5C4A}|MWMAssignment\\MWMAssignment.csproj|C:\\Degree\\year3sem1\\MWM\\MWMAssignment\\mwmassignment\\feedback.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{42F9B4E7-4CE5-4043-8388-2ED1ACDD5C4A}|MWMAssignment\\MWMAssignment.csproj|solutionrelative:mwmassignment\\feedback.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42F9B4E7-4CE5-4043-8388-2ED1ACDD5C4A}|MWMAssignment\\MWMAssignment.csproj|C:\\Degree\\year3sem1\\MWM\\MWMAssignment\\mwmassignment\\admineditproduct.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{42F9B4E7-4CE5-4043-8388-2ED1ACDD5C4A}|MWMAssignment\\MWMAssignment.csproj|solutionrelative:mwmassignment\\admineditproduct.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomePage.aspx",
+              "DocumentMoniker": "C:\\Degree\\year3sem1\\MWM\\MWMAssignment\\MWMAssignment\\HomePage.aspx",
+              "RelativeDocumentMoniker": "MWMAssignment\\HomePage.aspx",
+              "ToolTip": "C:\\Degree\\year3sem1\\MWM\\MWMAssignment\\MWMAssignment\\HomePage.aspx",
+              "RelativeToolTip": "MWMAssignment\\HomePage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-23T02:58:31.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminManageUser.aspx",
+              "DocumentMoniker": "C:\\Degree\\year3sem1\\MWM\\MWMAssignment\\MWMAssignment\\AdminManageUser.aspx",
+              "RelativeDocumentMoniker": "MWMAssignment\\AdminManageUser.aspx",
+              "ToolTip": "C:\\Degree\\year3sem1\\MWM\\MWMAssignment\\MWMAssignment\\AdminManageUser.aspx",
+              "RelativeToolTip": "MWMAssignment\\AdminManageUser.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-23T02:49:55.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminManageFeedback.aspx.cs",
+              "DocumentMoniker": "C:\\Degree\\year3sem1\\MWM\\MWMAssignment\\MWMAssignment\\AdminManageFeedback.aspx.cs",
+              "RelativeDocumentMoniker": "MWMAssignment\\AdminManageFeedback.aspx.cs",
+              "ToolTip": "C:\\Degree\\year3sem1\\MWM\\MWMAssignment\\MWMAssignment\\AdminManageFeedback.aspx.cs",
+              "RelativeToolTip": "MWMAssignment\\AdminManageFeedback.aspx.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAgwLkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T13:59:03.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminManageUser.aspx.cs",
+              "DocumentMoniker": "C:\\Degree\\year3sem1\\MWM\\MWMAssignment\\MWMAssignment\\AdminManageUser.aspx.cs",
+              "RelativeDocumentMoniker": "MWMAssignment\\AdminManageUser.aspx.cs",
+              "ToolTip": "C:\\Degree\\year3sem1\\MWM\\MWMAssignment\\MWMAssignment\\AdminManageUser.aspx.cs",
+              "RelativeToolTip": "MWMAssignment\\AdminManageUser.aspx.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T14:00:25.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminEditProduct.aspx.cs",
+              "DocumentMoniker": "C:\\Degree\\year3sem1\\MWM\\MWMAssignment\\MWMAssignment\\AdminEditProduct.aspx.cs",
+              "RelativeDocumentMoniker": "MWMAssignment\\AdminEditProduct.aspx.cs",
+              "ToolTip": "C:\\Degree\\year3sem1\\MWM\\MWMAssignment\\MWMAssignment\\AdminEditProduct.aspx.cs",
+              "RelativeToolTip": "MWMAssignment\\AdminEditProduct.aspx.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T13:30:45.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cart.aspx.cs",
+              "DocumentMoniker": "C:\\Degree\\year3sem1\\MWM\\MWMAssignment\\MWMAssignment\\Cart.aspx.cs",
+              "RelativeDocumentMoniker": "MWMAssignment\\Cart.aspx.cs",
+              "ToolTip": "C:\\Degree\\year3sem1\\MWM\\MWMAssignment\\MWMAssignment\\Cart.aspx.cs",
+              "RelativeToolTip": "MWMAssignment\\Cart.aspx.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwBEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T12:59:42.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminManageCategory.aspx.cs",
+              "DocumentMoniker": "C:\\Degree\\year3sem1\\MWM\\MWMAssignment\\MWMAssignment\\AdminManageCategory.aspx.cs",
+              "RelativeDocumentMoniker": "MWMAssignment\\AdminManageCategory.aspx.cs",
+              "ToolTip": "C:\\Degree\\year3sem1\\MWM\\MWMAssignment\\MWMAssignment\\AdminManageCategory.aspx.cs",
+              "RelativeToolTip": "MWMAssignment\\AdminManageCategory.aspx.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAowOUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T12:46:12.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminManageProduct.aspx",
+              "DocumentMoniker": "C:\\Degree\\year3sem1\\MWM\\MWMAssignment\\MWMAssignment\\AdminManageProduct.aspx",
+              "RelativeDocumentMoniker": "MWMAssignment\\AdminManageProduct.aspx",
+              "ToolTip": "C:\\Degree\\year3sem1\\MWM\\MWMAssignment\\MWMAssignment\\AdminManageProduct.aspx",
+              "RelativeToolTip": "MWMAssignment\\AdminManageProduct.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-22T11:51:08.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminEditCategory.aspx",
+              "DocumentMoniker": "C:\\Degree\\year3sem1\\MWM\\MWMAssignment\\MWMAssignment\\AdminEditCategory.aspx",
+              "RelativeDocumentMoniker": "MWMAssignment\\AdminEditCategory.aspx",
+              "ToolTip": "C:\\Degree\\year3sem1\\MWM\\MWMAssignment\\MWMAssignment\\AdminEditCategory.aspx",
+              "RelativeToolTip": "MWMAssignment\\AdminEditCategory.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-22T10:39:43.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminManageCategory.aspx",
+              "DocumentMoniker": "C:\\Degree\\year3sem1\\MWM\\MWMAssignment\\MWMAssignment\\AdminManageCategory.aspx",
+              "RelativeDocumentMoniker": "MWMAssignment\\AdminManageCategory.aspx",
+              "ToolTip": "C:\\Degree\\year3sem1\\MWM\\MWMAssignment\\MWMAssignment\\AdminManageCategory.aspx",
+              "RelativeToolTip": "MWMAssignment\\AdminManageCategory.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-22T11:51:39.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminManageOrder.aspx",
+              "DocumentMoniker": "C:\\Degree\\year3sem1\\MWM\\MWMAssignment\\MWMAssignment\\AdminManageOrder.aspx",
+              "RelativeDocumentMoniker": "MWMAssignment\\AdminManageOrder.aspx",
+              "ToolTip": "C:\\Degree\\year3sem1\\MWM\\MWMAssignment\\MWMAssignment\\AdminManageOrder.aspx",
+              "RelativeToolTip": "MWMAssignment\\AdminManageOrder.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-22T11:51:03.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SignUp.aspx",
+              "DocumentMoniker": "C:\\Degree\\year3sem1\\MWM\\MWMAssignment\\MWMAssignment\\SignUp.aspx",
+              "RelativeDocumentMoniker": "MWMAssignment\\SignUp.aspx",
+              "ToolTip": "C:\\Degree\\year3sem1\\MWM\\MWMAssignment\\MWMAssignment\\SignUp.aspx",
+              "RelativeToolTip": "MWMAssignment\\SignUp.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-22T10:40:15.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Order.aspx",
+              "DocumentMoniker": "C:\\Degree\\year3sem1\\MWM\\MWMAssignment\\MWMAssignment\\Order.aspx",
+              "RelativeDocumentMoniker": "MWMAssignment\\Order.aspx",
+              "ToolTip": "C:\\Degree\\year3sem1\\MWM\\MWMAssignment\\MWMAssignment\\Order.aspx",
+              "RelativeToolTip": "MWMAssignment\\Order.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-22T10:40:12.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Cart.aspx",
+              "DocumentMoniker": "C:\\Degree\\year3sem1\\MWM\\MWMAssignment\\MWMAssignment\\Cart.aspx",
+              "RelativeDocumentMoniker": "MWMAssignment\\Cart.aspx",
+              "ToolTip": "C:\\Degree\\year3sem1\\MWM\\MWMAssignment\\MWMAssignment\\Cart.aspx",
+              "RelativeToolTip": "MWMAssignment\\Cart.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-22T10:39:59.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductDetails.aspx",
+              "DocumentMoniker": "C:\\Degree\\year3sem1\\MWM\\MWMAssignment\\MWMAssignment\\ProductDetails.aspx",
+              "RelativeDocumentMoniker": "MWMAssignment\\ProductDetails.aspx",
+              "ToolTip": "C:\\Degree\\year3sem1\\MWM\\MWMAssignment\\MWMAssignment\\ProductDetails.aspx",
+              "RelativeToolTip": "MWMAssignment\\ProductDetails.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-22T10:39:55.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AboutUs.aspx",
+              "DocumentMoniker": "C:\\Degree\\year3sem1\\MWM\\MWMAssignment\\MWMAssignment\\AboutUs.aspx",
+              "RelativeDocumentMoniker": "MWMAssignment\\AboutUs.aspx",
+              "ToolTip": "C:\\Degree\\year3sem1\\MWM\\MWMAssignment\\MWMAssignment\\AboutUs.aspx",
+              "RelativeToolTip": "MWMAssignment\\AboutUs.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-22T10:39:37.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Degree\\year3sem1\\MWM\\MWMAssignment\\MWMAssignment\\Login.aspx",
+              "RelativeDocumentMoniker": "MWMAssignment\\Login.aspx",
+              "ToolTip": "C:\\Degree\\year3sem1\\MWM\\MWMAssignment\\MWMAssignment\\Login.aspx",
+              "RelativeToolTip": "MWMAssignment\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-22T10:35:06.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Feedback.aspx",
+              "DocumentMoniker": "C:\\Degree\\year3sem1\\MWM\\MWMAssignment\\MWMAssignment\\Feedback.aspx",
+              "RelativeDocumentMoniker": "MWMAssignment\\Feedback.aspx",
+              "ToolTip": "C:\\Degree\\year3sem1\\MWM\\MWMAssignment\\MWMAssignment\\Feedback.aspx",
+              "RelativeToolTip": "MWMAssignment\\Feedback.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-22T10:31:57.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserMasterPage.Master",
+              "DocumentMoniker": "C:\\Degree\\year3sem1\\MWM\\MWMAssignment\\MWMAssignment\\UserMasterPage.Master",
+              "RelativeDocumentMoniker": "MWMAssignment\\UserMasterPage.Master",
+              "ToolTip": "C:\\Degree\\year3sem1\\MWM\\MWMAssignment\\MWMAssignment\\UserMasterPage.Master",
+              "RelativeToolTip": "MWMAssignment\\UserMasterPage.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-22T10:31:51.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AdminEditProduct.aspx",
+              "DocumentMoniker": "C:\\Degree\\year3sem1\\MWM\\MWMAssignment\\MWMAssignment\\AdminEditProduct.aspx",
+              "RelativeDocumentMoniker": "MWMAssignment\\AdminEditProduct.aspx",
+              "ToolTip": "C:\\Degree\\year3sem1\\MWM\\MWMAssignment\\MWMAssignment\\AdminEditProduct.aspx",
+              "RelativeToolTip": "MWMAssignment\\AdminEditProduct.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-22T10:30:55.422Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

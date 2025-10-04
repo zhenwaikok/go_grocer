@@ -1,0 +1,44 @@
+﻿.profileContainer{
+    width:70%;
+    margin:50px auto;
+}
+
+.title{
+    text-align:center;
+    margin-bottom:60px;
+}
+
+.profileTitle {
+    font-size: 50px;
+    font-weight: 500;
+}
+
+.yourInformationTitle{
+    font-size:30px;
+    font-weight:bold;
+}
+
+
+.form-name {
+    margin-bottom: 10px;
+    font-weight: normal;
+    font-size: 20px;
+}
+
+.saveButton{
+    margin-top:30px;
+    text-align:center;
+}
+
+.saveBtn {
+    background-color: #05656E;
+    border: none;
+    color: white;
+    padding: 10px;
+    width: 200px;
+    font-size: 20px;
+}
+
+    .saveBtn:hover {
+        background-color: #077782;
+    }

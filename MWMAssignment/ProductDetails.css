@@ -1,0 +1,114 @@
+﻿.productDetailsContainer{
+    width:70%;
+    margin:auto;
+}
+
+
+.productImage {
+    object-fit:cover;
+    width: 100%;
+    height:47vh;
+}
+
+.productName{
+    margin-bottom:15px;
+}
+
+.productNameLabel{
+    font-size:35px;
+    font-weight:bold;
+}
+
+.productPrice{
+    margin-bottom: 15px;
+}
+
+.priceLabel, .quantityLabel{
+    font-size:20px;
+    font-weight:bold;
+}
+
+.productPriceLabel {
+    font-size: 35px;
+    font-weight: bold;
+    color: red;
+}
+
+.productQuantity{
+    margin-bottom:30px;
+}
+
+.formControl {
+    width: 80px !important;
+    margin-top: 10px;
+    border: 2px solid lightgray;
+    padding:8px 15px;
+}
+
+.addCartBtn {
+    width: 100%;
+    background-color: #05656E;
+    border:none;
+    color:white;
+    font-size:20px;
+    padding: 6px 15px;
+}
+
+    .addCartBtn:hover {
+        background-color: #077782;
+    }
+
+.productDescription, .reviews {
+    width:100%;
+    border: 1px solid black;
+    padding: 5px 15px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.productDescriptionLabel, .reviewsLabel {
+    font-size: 25px;
+    color: #05656E;
+    font-weight: bold;
+}
+
+.productDescriptionMessage{
+    font-size: 18px;
+}
+
+.reviewUserLabel{
+    font-size:20px;
+    font-weight:bold;
+}
+
+.reviewMessageLabel {
+    font-size: 18px;
+    color: #A1A1A1;
+}
+
+.noReviewsLabel{
+    font-size:20px;
+}
+
+.submitReview {
+    margin-top: 30px;
+}
+
+.reviewTextBox {
+    width: 100%;
+    margin-right: 20px;
+}
+
+.submitBtn {
+    border: none;
+    background-color: #05656E;
+    border: none;
+    color: white;
+    width:100px;
+    padding:8px 10px;
+}
+
+    .submitBtn:hover {
+        background-color: #077782;
+    }
+

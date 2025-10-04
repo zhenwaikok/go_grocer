@@ -1,0 +1,132 @@
+﻿.orderContainer {
+    width: 85%;
+    margin: 50px auto;
+}
+
+.orderTitle{
+    text-align:center;
+}
+
+.orderTitleText{
+    font-size: 50px;
+    font-weight: 500;
+}
+
+.orderStatusSelection{
+    text-align:center;
+    margin:10px auto;
+}
+
+.orderStatusSelectionBtn{
+    text-decoration:none;
+    color:black;
+    font-size:18px;
+    font-weight:bold;
+    padding:8px 15px;
+    border-radius:10px;
+}
+
+    .orderStatusSelectionBtn:hover {
+        background-color: #05656E;
+        color:white;
+    }
+
+.noOrderPanel {
+    text-align: center;
+    height: 30vh;
+    margin-top:80px;
+    align-content:center;
+}
+
+.noOrderLabel {
+    font-size:50px;
+}
+
+.orderDetails {
+    margin-top: 40px;
+}
+
+.orderCard {
+    width: 100%;
+    padding: 15px;
+    background-color: white;
+    box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
+    border-radius:8px;
+}
+
+.orderIdTitle, .orderDateLabel {
+    font-size: 18px;
+    color: gray;
+}
+
+.statusLabel {
+    background-color: #05656E;
+    color:white;
+    padding:2px 10px;
+    border-radius:40px;
+    font-size:18px;
+}
+
+.orderIdLabel{
+    font-weight:bold;
+    font-size:20px;
+}
+
+.productImage {
+    width: 100px;
+    height:13vh;
+    border-radius:10px;
+    object-fit:cover;
+}
+
+.itemDetails{
+    margin-left:10px;
+}
+
+.orderItemDetails{
+    margin-top:30px;
+}
+
+.productname {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.productQuantity {
+    font-size: 18px;
+    color: gray;
+}
+
+.productPrice {
+    font-size: 18px;
+    color: red;
+}
+
+.orderReceivedBtn {
+    background-color: #05656E;
+    border:none;
+    color:white;
+    padding:5px 8px;
+}
+
+    .orderReceivedBtn:hover {
+        background-color: #077782;
+    }
+
+.orderTotal {
+    margin-top: 20px;
+}
+
+.orderTotalTitle {
+    font-size: 20px;
+    margin-right: 5px;
+    font-weight:bold;
+}
+
+.orderTotalPrice {
+    font-size: 20px;
+    color:red;
+}
+
+
+

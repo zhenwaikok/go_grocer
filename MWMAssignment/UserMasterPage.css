@@ -1,0 +1,239 @@
+﻿body {
+    margin: 0;
+    padding: 0;
+    font-family:'Times New Roman', Times, serif;
+}
+
+/*Header*/
+.header {
+    width: 100%;
+    height: auto;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+.navbars {
+    margin: auto;
+    padding: 10px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: white;
+}
+
+    .navbars .left-nav {
+        display: flex;
+        justify-content: left;
+    }
+
+    .navbars .user-role {
+        display: flex;
+        align-items: center;
+        padding: 0 5px;
+    }
+
+.navbar-brand {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.navbar-links {
+    display: flex;
+    align-items: center;
+}
+
+.logos {
+    width: 120px;
+    margin-left: 20px;
+    margin-right: 5px;
+}
+
+.navbars ul li {
+    list-style-type: none;
+    display: inline-block;
+    margin: 0 10px;
+}
+
+
+.nav_link {
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+    border-radius: 10px;
+    padding: 10px;
+    transition: background-color 0.5s, transform 0.7s;
+}
+
+.Btn {
+    background-color: transparent;
+    cursor: pointer;
+    padding: 8px;
+    border-radius: 10px;
+}
+
+    .Btn:hover {
+        color: #05656E;
+    }
+
+.user-role {
+    margin-right: 15px;
+}
+
+.dropdownBtn {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: block;
+    position: absolute;
+    background-color: white;
+    min-width: 150px;
+    box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+    padding: 10px;
+    right: 1px;
+    margin-top: 15px;
+    border-radius: 10px;
+}
+
+    .dropdown-content a {
+        color: black;
+        padding: 10px;
+        text-decoration: none;
+        display: block;
+    }
+
+        .dropdown-content a:hover {
+            background-color: #F3F3F3;
+        }
+
+.cartBtnContainer{
+    margin-right:20px;
+}
+
+.cartBtn{
+    font-size:20px;
+    color:black;
+}
+
+.cartItemCountLabel {
+    border-radius: 30px;
+    padding: 5px 8px;
+}
+
+/*Hamburger menu*/
+.hamburger {
+    display: none;
+    font-size: 30px;
+    cursor: pointer;
+    margin-right: 15px;
+    position: absolute;
+    right: 20px;
+    top: 10px;
+}
+
+/*Mobile*/
+@media (max-width: 768px) {
+    .navbars {
+        flex-direction: column;
+        align-items: flex-start;
+        width: 100%;
+    }
+
+    .hamburger {
+        display: block;
+        font-size: 30px;
+        cursor: pointer;
+        margin: 10px 5px;
+        transform: translateY(50%);
+    }
+
+    .menu-content {
+        display: none; 
+        flex-direction: column;
+        width: 70%;
+        align-items: flex-start;
+    }
+
+        .menu-content.show {
+            display: flex; 
+        }
+
+    .navbar-links {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        text-align: left;
+        margin-top: 10px; 
+    }
+
+        .navbar-links li {
+            padding-bottom:8px;
+            width: 100%;
+        }
+
+    .user-role {
+        display: block;
+        margin-left:35px;
+    }
+
+    .dropdown {
+        display: block;
+    }
+
+    .dropdown-content {
+        position: absolute;
+        transform: translateX(50%); /* Center align */
+        background-color: white;
+    }
+}
+
+
+/*Desktop*/
+@media (min-width: 769px) {
+    .menu-content {
+        display: flex;
+        justify-content: space-between;
+        width: 100%;
+    }
+
+    .navbar-links {
+        display: flex;
+    }
+
+    .hamburger {
+        display: none;
+    }
+
+    .user-role {
+        display: flex; 
+        margin-right: 15px;
+    }
+}
+
+
+
+
+/*Footer*/
+.footer {
+    text-align: center;
+    margin-top: 20px;
+    border-top:1px solid black;
+    height:30px;
+}
+
+    .footer p {
+        font-size: 16px;
+    }

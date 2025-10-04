@@ -1,0 +1,171 @@
+﻿.manageProductContainer {
+    margin: auto;
+}
+
+.categoryTitle {
+    margin-left: 10px;
+    margin-bottom: 40px;
+}
+
+.addCategoryBtn {
+    margin-right: 10px;
+    color: white;
+    padding: 8px 15px;
+    background-color: #05656E;
+    border: none;
+    border-radius: 5px;
+}
+
+    .addCategoryBtn:hover {
+        background-color: #077782;
+    }
+
+.modalTitle {
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.form-name {
+    margin-bottom: 10px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.descriptionTextBox {
+    height: 120px;
+    resize: none;
+}
+
+.imagePreview {
+    margin-top: 10px;
+    width: 100px;
+    height: 100px;
+    display: none;
+}
+
+.addBtn {
+    background-color: #05656E;
+    color: white;
+    padding: 7px 13px;
+    border: none;
+    border-radius: 7px;
+}
+
+    .addBtn:hover {
+        background-color: #077782;
+    }
+
+.filterDropdown {
+    padding: 5px;
+    font-size: 15px;
+    border: 2px solid #D6D6D6;
+    border-radius: 5px;
+}
+
+
+.errMsg {
+    font-size: medium;
+    color: red;
+}
+
+.dataGrid {
+    margin: 0 10px;
+    margin-top: 20px;
+}
+
+.categoryDataGrid td {
+    text-align: center;
+    vertical-align: middle;
+}
+
+.gridHeader th {
+    background-color: #05656E !important;
+    color: white !important;
+    text-align: center;
+}
+
+.paginationButton {
+    margin: 15px 10px 0 0;
+}
+
+.paginationStyle {
+    text-align: center;
+    margin-top: 20px;
+}
+
+    .paginationStyle table {
+        display: inline-block;
+        border-collapse: collapse;
+    }
+
+    .paginationStyle a,
+    .paginationStyle span {
+        display: inline-block;
+        padding: 8px 15px;
+        margin: 2px;
+        border: 1px solid gray;
+        color: black;
+        text-decoration: none;
+        border-radius: 60px;
+    }
+
+        .paginationStyle a:hover {
+            background: #F3F3F3;
+            color: black;
+        }
+
+    .paginationStyle span {
+        background: #05656E;
+        font-weight: bold;
+        color: white;
+        border: none;
+    }
+
+.editIconBtn {
+    font-size: 25px;
+    color: darkgray;
+}
+
+.toggleIconBtn {
+    font-size: 25px;
+}
+
+.bi-toggle-on{
+    color:green !important;
+}
+
+.bi-toggle-off {
+    color: black !important;
+}
+
+.confirmBtn {
+    background-color: #05656E;
+    color: white;
+    padding: 7px 13px;
+    border: none;
+    border-radius: 7px;
+    margin-left: 8px;
+}
+
+    .confirmBtn:hover {
+        background-color: #077782;
+    }
+
+.noResultContainer {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.noResultIcon {
+    font-size: 100px;
+    color: #05656E;
+}
+
+.noResultText {
+    font-size: 30px;
+    font-weight: bold;
+    color: #05656E;
+    margin-top: 10px;
+}
+
+

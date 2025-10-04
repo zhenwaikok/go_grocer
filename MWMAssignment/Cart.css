@@ -1,0 +1,96 @@
+﻿.cartTitle{
+    text-align:center;
+    margin-bottom:60px;
+    margin-top:50px;
+}
+
+.emptyCartPanel {
+    text-align: center;
+    height: 50vh;
+    align-content: center;
+}
+
+.emptyCart{
+    font-size:50px
+}
+
+.numberOfItemsContainer {
+    margin-bottom: 10px;
+}
+
+.numOfItems{
+    font-size:25px;
+    font-weight:bold;
+}
+
+.productImage {
+    max-width: 100px !important;
+    height: 100px !important;
+    object-fit:cover !important;
+}
+
+.cartTitleText {
+    font-size: 50px;
+    font-weight: 500;
+}
+
+.productName{
+    font-size:22px;
+    font-weight:bold;
+}
+
+.cart-summary {
+    background-color: #F3F3F3 !important;
+}
+
+.totalPriceContainer{
+    margin-bottom:25px;
+    margin-top:5px;
+}
+
+.plusBtn,.minusBtn{
+    font-weight:bold !important;
+    font-size:18px !important;
+}
+
+.plusBtn:hover, .minusBtn:hover {
+    background-color: #05656E !important;
+}
+
+.checkOutBtn {
+    background-color: #05656E !important;
+    border:none !important;
+    border-radius:0px !important;
+}
+
+    .checkOutBtn:hover {
+        background-color: #077782 !important;
+    }
+
+.totalText, .totalLabel{
+    font-size:20px;
+    font-weight:bold;
+}
+
+.modalTitle {
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.form-name {
+    margin-bottom: 10px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.proceedBtn {
+    background-color: #05656E;
+    color: white;
+    padding: 7px 13px;
+    border: none;
+    border-radius: 7px;
+}
+
+    .proceedBtn:hover {
+        background-color: #077782;
+    }

@@ -1,0 +1,76 @@
+﻿.feedbackFormContainer {
+    width: 80%;
+    margin: 50px auto;
+}
+
+.titleDescription{
+    text-align:center;
+}
+
+.feedbackTitle {
+    font-size: 50px;
+    font-weight: 500;
+}
+
+.feedbackDesc{
+    font-size:18px;
+}
+
+.feedbackFormContent {
+    background-color: #F3F3F3;
+    padding:20px;
+}
+
+.feedbackFormTitle {
+    font-size: 55px;
+    color: #05656E;
+}
+
+.feedbackFormDesc{
+    font-size:20px;
+}
+
+.feedbackType, .feedbackMessage {
+    margin-top: 60px;
+}
+
+.feedbackTypeTitle, .feedbackMessageTitle {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.radioButton{
+    font-size:18px;
+    margin-right:40px;
+}
+
+.radioButton input{
+    margin-right:5px;
+}
+
+.feedbackMessageTextBox {
+    border: 2px solid black;
+    width: 100%;
+    height: 120px;
+    resize: none;
+}
+
+.submitButtonContainer {
+    margin-top: 40px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.submitButton {
+    background-color: #05656E;
+    border: none;
+    color: white;
+    padding: 10px;
+    width: 200px;
+    font-size: 20px;
+}
+
+    .submitButton:hover {
+        background-color: #077782;
+    }
